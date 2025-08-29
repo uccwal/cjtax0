@@ -2,23 +2,20 @@ name: PolicyFund Collector
 
 on:
   schedule:
-    - cron: '0 1 * * *'  # 매일 1시
-  workflow_dispatch:    # 수동 실행 가능
+    - cron: '0 1 * * *'  # 매일 새벽 1시 실행
+  workflow_dispatch:      # 수동 실행도 가능
 
 jobs:
   collect:
     runs-on: ubuntu-latest
-    env:
-      DB_HOST: ${{ secrets.DB_HOST }}
-      DB_USER: ${{ secrets.DB_USER }}
-      DB_PASSWORD: ${{ secrets.DB_PASSWORD }}
-      DB_NAME: ${{ secrets.DB_NAME }}
+    permissions:
+      contents: write  # 깃허브 리포 푸시 권한
     steps:
-      - name: 체크아웃 코드
-        uses: actions/checkout@v3
+      - name: 코드 체크아웃
+        uses: actions/checkout@v4
 
       - name: Python 설치
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.12'
 
@@ -27,5 +24,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests pymysql
 
-      - name: 정책자금 수집
+      - name: 정책자금 데이터 수집 (data.json 생성)
         run: python collector_gh.py
+
+      - name: data.json 커밋 및 푸시
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          git commit -m "Update data.json" || echo "No changes to commit"
+          git push
