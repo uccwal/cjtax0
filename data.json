@@ -1,7 +1,72 @@
 [
   {
-    "totCnt": 282,
-    "inqireCo": 181,
+    "totCnt": 284,
+    "inqireCo": 236,
+    "rceptEngnHmpgUrl": null,
+    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114923",
+    "jrsdInsttNm": "서울특별시",
+    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000730463&fileSn=0",
+    "pldirSportRealmLclasCodeNm": "금융",
+    "trgetNm": "중소기업",
+    "bsnsSumryCn": "<p>중소기업중앙회는 지자체와 함께 중소기업의 제조물책임 리스크 대비와 보험료 \n부담 경감 등을 위하여 「2025년 중소기업 제조물책임(PL)보험 지원사업」을 시행하고 있\n으며 다음과 같이 추가 지원을 접수 받고 있으니, 기한 내 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 증권상 사업장 소재지가 서울\n인 본회 PL단체보험 가입 중소기업</p><p style=\"line-height: 1.8;\">※&nbsp;단, 2025.6월 중에 보험료를 납부하고 계약을 유지중인 업체</p><p style=\"line-height: 1.8;\">※ 자세한 지원대상 공고문 참조</p><p><br></p><p style=\"line-height: 1.8;\">☞ PL보험 가입시 납부한 보험료의 20%이내 지원(업체당 최고 100만원 한도이내)</p><p style=\"line-height: 1.8;\">※ 붙임 지원신청서 참조(다른 사업과의 중복지원 안됨, 예산 소진 시 종료)</p>",
+    "flpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000730464&fileSn=0",
+    "reqstBeginEndDe": "20250915 ~ 20250926",
+    "printFileNm": "「지자체+제조물책임(PL)보험료+지원사업」+신청안내.pdf",
+    "reqstMthPapersCn": "팩스, 이메일 접수\n- 이메일 : pl@kbiz.or.kr\n- 팩스 : 0502-397-0200",
+    "pldirSportRealmMlsfcCodeNm": "보험(수출+무역)",
+    "excInsttNm": "중소기업중앙회서울지역본부",
+    "refrncNm": "중소기업중앙회 PL손해공제실 02-2124-4351~4",
+    "pblancNm": "[서울] 제조물책임(PL)보험료 지원사업 추가 신청 공고",
+    "hashtags": "금융,서울,지자체,납부,제조물책임,PL,보험료,소상공인,중소기업,2025,서울특별시,중소기업중앙회서울지역본부",
+    "fileNm": "2025년+서울특별시+제조물책임(PL)+보험료+지원+신청서_4~5월+납입.hwp",
+    "creatPnttm": "2025-09-16 14:04:28",
+    "pblancId": "PBLN_000000000114923"
+  },
+  {
+    "totCnt": 284,
+    "inqireCo": 270,
+    "rceptEngnHmpgUrl": "https://www.djbea.or.kr/pms/an/an_0101/02/form.tab?cPage=&TSK_PBNC_ID=2025-0169&BIZ_PBNC_NM=%EC%A7%80%EC%97%AD%ED%8A%B9%ED%99%94&PBNC_BEGDTM=&PBNC_ENDDTM=&RCIP_BEGDTM=&RCIP_ENDDTM=&IDX=",
+    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114859",
+    "jrsdInsttNm": "대전광역시",
+    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000730413&fileSn=0",
+    "pldirSportRealmLclasCodeNm": "금융",
+    "trgetNm": "중소기업",
+    "bsnsSumryCn": "<p>「대전광역시 중소기업육성기금 조례」 제10조의 규정 및「대전광역시 지역특화 중소기업 육성 금융지원 업무협약」에 의거, 2025년도 하반기 지역특화 협약보증 지원계획을 다음과 같이 변경 공고합니다.</p><div><br></div><div style=\"line-height: 1.8;\">☞&nbsp;대전광역시에 본사 또는 사업장을 둔 「중소기업기본법」상 중소기업으로, 별첨 1「지원가능 업종」에 해당하는 기업 중 다음 중 하나를 충족하는 기업</div><div><div style=\"line-height: 1.8;\">① 별첨 2「평가기준표」에 따른 점수가 50점 이상인 기업</div><div style=\"line-height: 1.8;\">② 별첨 3「지역특화 협약보증 우선기업」에 해당하는 기업</div></div><div><br></div><div style=\"line-height: 1.8;\">☞ 일반 경영안정자금 : 잔여 금액 지원(기존 경안자금 공고문 참고)</div><div style=\"line-height: 1.8;\">- 지역특화 협약보증 : 600억 원</div>",
+    "reqstBeginEndDe": "20250915 ~ 20251231",
+    "printFileNm": "2025년 하반기 중소기업 경영안정자금(협약보증) 변경 공고문(최종).hwp",
+    "pldirSportRealmMlsfcCodeNm": "보증",
+    "reqstMthPapersCn": "온라인 접수 (대전비즈)",
+    "excInsttNm": "대전일자리경제진흥원",
+    "refrncNm": "대전일자리경제진흥원 기업혁신성장팀 (042-380-3081, 3021, 3000) / 신용보증기금 대표전화 (1588-6565)",
+    "pblancNm": "[대전] 2025년 하반기 중소기업 경영안정자금 (지역특화 협약보증) 변경 공고",
+    "hashtags": "금융,대전,2025,협약보증,신용보증,지역특화,경영안정자금,이차보전,대전일자리경제진흥원,대전광역시,중소기업",
+    "creatPnttm": "2025-09-16 10:43:24",
+    "pblancId": "PBLN_000000000114859"
+  },
+  {
+    "totCnt": 284,
+    "inqireCo": 180,
+    "rceptEngnHmpgUrl": "https://ebizcb.chungbuk.go.kr/plc/selectPolicyInf.do?plcInfId=7b90b4af-3337-471b-9ae0-2bfbf5a1fc59&menuId=MNU_0000000000000121&grpCode=",
+    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114851",
+    "jrsdInsttNm": "충청북도",
+    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000730393&fileSn=0",
+    "pldirSportRealmLclasCodeNm": "금융",
+    "trgetNm": "중소기업",
+    "bsnsSumryCn": "<p>충청북도 공고 제2025-764호(2025.05.09.)「2025년도 충청북도 중소기업육성자금 융자(이차보전) 지원계획 변경공고」와 관련, 금리우대(인구감소지역) 확대 등으로 다음과 같이 변경 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞&nbsp;충청북도에 사업장을 둔「중소기업기본법」의 적용을 받는 중소기업</p><p style=\"line-height: 1.8;\">- ‘붙임 자금별 지원조건’의 융자대상에 해당하는 기업</p><p style=\"line-height: 1.8;\">※&nbsp;동 자금은 충청북도와 취급은행간 협약에 의해 지원되는 사업으로,&nbsp;은행여신규정에 의한 대출조건(담보, 보증서 제공 등)을 충족하여야 함</p><p><br></p><p style=\"line-height: 1.8;\">☞ 창업 및 경쟁력강화자금, 경영안정지원자금, 고용창출기업특별지원자금, 청년창업지원자금, 소기업특별지원자금 등 지원</p><p style=\"line-height: 1.8;\">※ 자금별 상세 지원조건 공고문 참조</p>",
+    "reqstBeginEndDe": "예산 소진시까지",
+    "printFileNm": "2025년 중소기업육성자금 융자(이차보전) 지원계획 변경(5차) 공고문(안).hwp",
+    "pldirSportRealmMlsfcCodeNm": "융자",
+    "reqstMthPapersCn": "온라인, 방문, 우편 접수\n- 접수처 : 우 28399 / 충북 청주시 흥덕구 풍산로 50 충청북도기업진흥원(2층 기업지원부)\n- 온라인 : e-기업사랑센터",
+    "excInsttNm": "충청북도기업진흥원",
+    "refrncNm": "충북기업진흥원 기업지원부 043-230-9751, 9729",
+    "pblancNm": "[충북] 2025년 5차 중소기업육성자금 융자(이차보전) 지원계획 변경 공고",
+    "hashtags": "금융,충북,벤처지식산업지원자금,2025,청년창업지원자금,고용창출기업특별지원자금,경영안정지원자금,창업및경쟁력강화자금,중소기업육성자금,이차보전,충청북도,충청북도기업진흥원",
+    "creatPnttm": "2025-09-16 09:57:14",
+    "pblancId": "PBLN_000000000114851"
+  },
+  {
+    "totCnt": 284,
+    "inqireCo": 312,
     "rceptEngnHmpgUrl": "https://jbok.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114820",
     "jrsdInsttNm": "전북특별자치도",
@@ -21,8 +86,8 @@
     "pblancId": "PBLN_000000000114820"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 144,
+    "totCnt": 284,
+    "inqireCo": 269,
     "rceptEngnHmpgUrl": "https://jbok.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114840",
     "jrsdInsttNm": "전북특별자치도",
@@ -42,8 +107,8 @@
     "pblancId": "PBLN_000000000114840"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 333,
+    "totCnt": 284,
+    "inqireCo": 370,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114791",
     "jrsdInsttNm": "강원특별자치도",
@@ -63,8 +128,8 @@
     "pblancId": "PBLN_000000000114791"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 281,
+    "totCnt": 284,
+    "inqireCo": 310,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114773",
     "jrsdInsttNm": "강원특별자치도",
@@ -86,8 +151,8 @@
     "pblancId": "PBLN_000000000114773"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 293,
+    "totCnt": 284,
+    "inqireCo": 326,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114772",
     "jrsdInsttNm": "강원특별자치도",
@@ -107,8 +172,8 @@
     "pblancId": "PBLN_000000000114772"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 459,
+    "totCnt": 284,
+    "inqireCo": 486,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114768",
     "jrsdInsttNm": "충청북도",
@@ -128,8 +193,8 @@
     "pblancId": "PBLN_000000000114768"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 389,
+    "totCnt": 284,
+    "inqireCo": 418,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114759",
     "jrsdInsttNm": "충청북도",
@@ -151,8 +216,8 @@
     "pblancId": "PBLN_000000000114759"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 309,
+    "totCnt": 284,
+    "inqireCo": 325,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114765",
     "jrsdInsttNm": "강원특별자치도",
@@ -174,8 +239,8 @@
     "pblancId": "PBLN_000000000114765"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 307,
+    "totCnt": 284,
+    "inqireCo": 321,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114758",
     "jrsdInsttNm": "충청북도",
@@ -195,8 +260,8 @@
     "pblancId": "PBLN_000000000114758"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 525,
+    "totCnt": 284,
+    "inqireCo": 609,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114749",
     "jrsdInsttNm": "충청북도",
@@ -216,8 +281,8 @@
     "pblancId": "PBLN_000000000114749"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 234,
+    "totCnt": 284,
+    "inqireCo": 244,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114732",
     "jrsdInsttNm": "제주특별자치도",
@@ -239,8 +304,8 @@
     "pblancId": "PBLN_000000000114732"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 278,
+    "totCnt": 284,
+    "inqireCo": 305,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114727",
     "jrsdInsttNm": "전북특별자치도",
@@ -260,8 +325,8 @@
     "pblancId": "PBLN_000000000114727"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 15912,
+    "totCnt": 284,
+    "inqireCo": 16730,
     "rceptEngnHmpgUrl": "https://ols.semas.or.kr/ols/man/SMAN010M/page.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114686",
     "jrsdInsttNm": "중소벤처기업부",
@@ -281,8 +346,8 @@
     "pblancId": "PBLN_000000000114686"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 604,
+    "totCnt": 284,
+    "inqireCo": 625,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114681",
     "jrsdInsttNm": "강원특별자치도",
@@ -304,8 +369,8 @@
     "pblancId": "PBLN_000000000114681"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1121,
+    "totCnt": 284,
+    "inqireCo": 1162,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114657",
     "jrsdInsttNm": "중소벤처기업부",
@@ -327,8 +392,8 @@
     "pblancId": "PBLN_000000000114657"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1489,
+    "totCnt": 284,
+    "inqireCo": 1586,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114656",
     "jrsdInsttNm": "전북특별자치도",
@@ -348,8 +413,8 @@
     "pblancId": "PBLN_000000000114656"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 636,
+    "totCnt": 284,
+    "inqireCo": 665,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114654",
     "jrsdInsttNm": "경상남도",
@@ -369,8 +434,8 @@
     "pblancId": "PBLN_000000000114654"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 574,
+    "totCnt": 284,
+    "inqireCo": 596,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114646",
     "jrsdInsttNm": "소방청",
@@ -390,8 +455,8 @@
     "pblancId": "PBLN_000000000114646"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 340,
+    "totCnt": 284,
+    "inqireCo": 359,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114645",
     "jrsdInsttNm": "경상남도",
@@ -411,29 +476,8 @@
     "pblancId": "PBLN_000000000114645"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 231,
-    "rceptEngnHmpgUrl": null,
-    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114633",
-    "jrsdInsttNm": "경상남도",
-    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000729518&fileSn=1",
-    "pldirSportRealmLclasCodeNm": "금융",
-    "trgetNm": "중소기업",
-    "bsnsSumryCn": "<p>수산장비 구입 지원을 통해 어업인 등의 경영부담을 경감하고, 고품질 고성능 수산기자재 사용 기반 마련을 위한 「2025년 수산장비구입지원(융자)」추가 대상자를 아래와 같이 모집하오니, 붙임 사업시행지침을 참조하시어 신청하여 주시기 바랍니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞「수산업ㆍ어촌 발전 기본법」에 따른 수산인(유통ㆍ가공업체), 어업경영체 등록된 어업인(어업법인) 및 생산자단체</p><p style=\"line-height: 1.8;\">-&nbsp;어업용기자재(지침 별표4 및 별표 6 참조), 다만 어선 구입 및 제작 제외</p><p><br></p><p style=\"line-height: 1.8;\">☞ 융자한도액 2억원 내에서 거래가격의 80% 지원</p><p style=\"line-height: 1.8;\">- 융자 80%, 자담 20%(1년 거치 7년 균등상환)</p><p style=\"line-height: 1.8;\">-&nbsp;고정금리(개인 2%, 법인 등 3%), 변동금리(대출시점 전전월 금리(3개월 변동))</p>",
-    "reqstBeginEndDe": "20250903 ~ 20250916",
-    "printFileNm": "2025년 수산장비구입지원 사업시행지침(수산발전기금).pdf",
-    "pldirSportRealmMlsfcCodeNm": "융자",
-    "reqstMthPapersCn": "방문 접수\n- 접수처 : 창원시 수산과, 구청 수산부서(수산산림과, 산림농정과)",
-    "excInsttNm": "기초자치단체",
-    "refrncNm": "경상남도 창원시 해양수산부 소득복지과 044-200-5460, 5465, 5466 및 은행 문의처 공고문 참조",
-    "pblancNm": "2025년 수산장비구입지원(융자) 추가 대상자 모집 공고",
-    "hashtags": "금융,기술,경영,경남,수산장비구입지원,2025,수산기자재,어업인,생산자단체,어업법인,어업경영체,기초자치단체,경상남도,융자",
-    "creatPnttm": "2025-09-09 13:13:40",
-    "pblancId": "PBLN_000000000114633"
-  },
-  {
-    "totCnt": 282,
-    "inqireCo": 487,
+    "totCnt": 284,
+    "inqireCo": 518,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114577",
     "jrsdInsttNm": "산림청",
@@ -455,8 +499,8 @@
     "pblancId": "PBLN_000000000114577"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1223,
+    "totCnt": 284,
+    "inqireCo": 1344,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114571",
     "jrsdInsttNm": "서울특별시",
@@ -478,8 +522,8 @@
     "pblancId": "PBLN_000000000114571"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 693,
+    "totCnt": 284,
+    "inqireCo": 765,
     "rceptEngnHmpgUrl": "https://spobiz.kspo.or.kr/front/sportsHistory/sportsBissMng/sportsBissNoticeDetail.do?suppBusiInfoSeq=1588",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114555",
     "jrsdInsttNm": "문화체육관광부",
@@ -501,8 +545,8 @@
     "pblancId": "PBLN_000000000114555"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 659,
+    "totCnt": 284,
+    "inqireCo": 717,
     "rceptEngnHmpgUrl": "https://spobiz.kspo.or.kr/front/sportsHistory/sportsBissMng/sportsBissNoticeDetail.do?suppBusiInfoSeq=1587",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114570",
     "jrsdInsttNm": "문화체육관광부",
@@ -524,8 +568,8 @@
     "pblancId": "PBLN_000000000114570"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 884,
+    "totCnt": 284,
+    "inqireCo": 909,
     "rceptEngnHmpgUrl": "https://www.xn--hc0by27bu6atul3dc6t.kr/main",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114516",
     "jrsdInsttNm": "광주광역시",
@@ -545,8 +589,8 @@
     "pblancId": "PBLN_000000000114516"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1093,
+    "totCnt": 284,
+    "inqireCo": 1128,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114475",
     "jrsdInsttNm": "서울특별시",
@@ -568,8 +612,8 @@
     "pblancId": "PBLN_000000000114475"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 993,
+    "totCnt": 284,
+    "inqireCo": 1036,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114486",
     "jrsdInsttNm": "서울특별시",
@@ -591,8 +635,8 @@
     "pblancId": "PBLN_000000000114486"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 814,
+    "totCnt": 284,
+    "inqireCo": 845,
     "rceptEngnHmpgUrl": "https://www.seoulshinbo.co.kr/cyber",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114473",
     "jrsdInsttNm": "서울특별시",
@@ -614,8 +658,8 @@
     "pblancId": "PBLN_000000000114473"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 455,
+    "totCnt": 284,
+    "inqireCo": 473,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114472",
     "jrsdInsttNm": "부산광역시",
@@ -637,8 +681,8 @@
     "pblancId": "PBLN_000000000114472"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 609,
+    "totCnt": 284,
+    "inqireCo": 633,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114481",
     "jrsdInsttNm": "서울특별시",
@@ -660,18 +704,18 @@
     "pblancId": "PBLN_000000000114481"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1043,
+    "totCnt": 284,
+    "inqireCo": 1067,
     "rceptEngnHmpgUrl": "https://www.sba.seoul.kr/Pages/BusinessApply/PostingDetail.aspx?p=0&mid=fde102b1-6788-f011-b403-d4f5ef4a1e33",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114457",
     "jrsdInsttNm": "서울특별시",
-    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000728933&fileSn=0",
+    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000728933&fileSn=1",
     "pldirSportRealmLclasCodeNm": "금융",
     "trgetNm": "중소기업",
     "bsnsSumryCn": "<p>서울경제진흥원은 서울 소재 수출 중소기업의 수출 안정성 확보 및 수출 활성화를 위해 한국무역보험공사(K-SURE)와 협력하여 수출보험 가입을 지원하오니 관심있는 기업들의 많은 참여를 바랍니다.</p><p><br></p><p>☞ 서울 소재(본사 기준) 수출 중소기업</p><p><br></p><p>☞ 단기수출보험(단체보험) 가입 지원(1년)</p>",
     "flpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000728934&fileSn=1@https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000728934&fileSn=2",
     "reqstBeginEndDe": "20250903 ~ 20250930",
-    "printFileNm": "2025년 서울 수출 중소기업 수출보험 가입 지원사업 참여기업 모집.pdf",
+    "printFileNm": "공고문_2025년 서울 수출 중소기업 수출보험 가입 지원사업.pdf",
     "reqstMthPapersCn": "온라인 접수 (서울경제진흥원)",
     "pldirSportRealmMlsfcCodeNm": "보험(수출+무역)",
     "excInsttNm": "서울경제진흥원",
@@ -683,8 +727,8 @@
     "pblancId": "PBLN_000000000114457"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1375,
+    "totCnt": 284,
+    "inqireCo": 1401,
     "rceptEngnHmpgUrl": "https://www.jnfund.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114334",
     "jrsdInsttNm": "전라남도",
@@ -704,8 +748,8 @@
     "pblancId": "PBLN_000000000114334"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 2462,
+    "totCnt": 284,
+    "inqireCo": 2524,
     "rceptEngnHmpgUrl": null,
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114323",
     "jrsdInsttNm": "서울특별시",
@@ -727,8 +771,8 @@
     "pblancId": "PBLN_000000000114323"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 708,
+    "totCnt": 284,
+    "inqireCo": 717,
     "rceptEngnHmpgUrl": "https://www.atbid.co.kr/atfn/frame_home.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114314",
     "jrsdInsttNm": "농림축산식품부",
@@ -748,8 +792,8 @@
     "pblancId": "PBLN_000000000114314"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 669,
+    "totCnt": 284,
+    "inqireCo": 682,
     "rceptEngnHmpgUrl": "https://www.atbid.co.kr/atfn/frame_home.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114312",
     "jrsdInsttNm": "농림축산식품부",
@@ -769,8 +813,8 @@
     "pblancId": "PBLN_000000000114312"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 1204,
+    "totCnt": 284,
+    "inqireCo": 1241,
     "rceptEngnHmpgUrl": "https://www.ttg.co.kr/",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114276",
     "jrsdInsttNm": "대구광역시",
@@ -790,8 +834,8 @@
     "pblancId": "PBLN_000000000114276"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 866,
+    "totCnt": 284,
+    "inqireCo": 885,
     "rceptEngnHmpgUrl": "https://untact.koreg.or.kr/web/index.do",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114271",
     "jrsdInsttNm": "경상남도",
@@ -811,8 +855,8 @@
     "pblancId": "PBLN_000000000114271"
   },
   {
-    "totCnt": 282,
-    "inqireCo": 4164,
+    "totCnt": 284,
+    "inqireCo": 4304,
     "rceptEngnHmpgUrl": "http://a.to/25imOHB",
     "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114265",
     "jrsdInsttNm": "산업통상자원부",
@@ -832,49 +876,5 @@
     "fileNm": "[붙임2] 지역산업위기대응 이차보전 지원사업 추천 대상 선정 심사기준.pdf@[붙임3] 지역산업위기대응 이차보전 지원사업 신청서 접수 방법.pdf@[붙임4]지역산업위기대응 이차보전 지원사업 운영규정(산업통상자원부고시)(제2025-129호).pdf@[붙임1] 지역산업위기대응 이차보전 지원사업 신청서식.hwp",
     "creatPnttm": "2025-08-29 10:58:11",
     "pblancId": "PBLN_000000000114265"
-  },
-  {
-    "totCnt": 282,
-    "inqireCo": 522,
-    "rceptEngnHmpgUrl": null,
-    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114281",
-    "jrsdInsttNm": "경상남도",
-    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000728106&fileSn=0",
-    "pldirSportRealmLclasCodeNm": "금융",
-    "trgetNm": "중소기업",
-    "bsnsSumryCn": "<p>지역 중소기업의 자금난 해소를 통한 지역경제 활성화를 위한 2025년 하반기 사천시 중소기업육성자금 융자지원 계획을 다음과 같이 공고합니다.&nbsp;</p><p><br></p><p>☞&nbsp;공고일 현재 사천시에 주사무소(본사)와 사업장을 둔「중소기업기본법」제2조에 따른 중소기업으로서, 공장 등록하여 정상 가동 중인 제조업체&nbsp;&nbsp;</p><p><br></p><p style=\"line-height: 1.8;\">☞ 융자금에 대한 이자차액보전금 지원</p><p style=\"line-height: 1.8;\">- 융자한도액 업체당 5억원 이내</p><p style=\"line-height: 1.8;\">※ 자세한 지원내용 공고문 참조</p>",
-    "reqstBeginEndDe": "예산 소진시까지",
-    "printFileNm": "★2025년 하반기 사천시 중소기업육성자금 융자지원 계획 공고.hwp",
-    "pldirSportRealmMlsfcCodeNm": "융자",
-    "reqstMthPapersCn": "방문 또는 우편 접수\n- 접수처 : (52539)사천시 용현면 시청로 77, 사천시청 투자유치산단과",
-    "excInsttNm": "기초자치단체",
-    "refrncNm": "사천시청 투자유치산단과 기업지원팀 055-831-3475",
-    "pblancNm": "[경남] 사천시 2025년 하반기 중소기업육성자금 융자지원 계획 공고",
-    "hashtags": "금융,경남,이자차액보전금,시설현대화자금,2025,중소기업육성자금,경영안정자금,이차보전,사천시,기초자치단체,경상남도,융자",
-    "creatPnttm": "2025-08-29 10:45:41",
-    "pblancId": "PBLN_000000000114281"
-  },
-  {
-    "totCnt": 282,
-    "inqireCo": 1156,
-    "rceptEngnHmpgUrl": null,
-    "pblancUrl": "/web/lay1/bbs/S1T122C128/AS/74/view.do?pblancId=PBLN_000000000114243",
-    "jrsdInsttNm": "경기도",
-    "printFlpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000727946&fileSn=0",
-    "pldirSportRealmLclasCodeNm": "금융",
-    "trgetNm": "중소기업",
-    "bsnsSumryCn": "<p>「양주시 중소기업 및 소상공인 운전자금 지원 조례」제5조의 규정에 따라 2025년 중소기업 및 소상공인 운전자금 이차보전 지원 계획을 다음과 같이 공고합니다.</p><p><br></p><p style=\"line-height: 1.8;\">☞ 신청일 현재 양주시에 소재한 중소기업기본법 제2조의 규정에 의한 중소기업으로 신청일 현재 공장등록을 필한 업체</p><p style=\"line-height: 1.8;\">※ 자세한 지원대상 공고문 참조</p><p><br></p><p>☞ 중소기업 및 소상공인 운전자금 이자 중 1%~2% 보전 지원(융자한도 업체당 최대 2억원 이내)</p>",
-    "flpthNm": "https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000727967&fileSn=0@https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000727967&fileSn=1@https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000727967&fileSn=2@https://www.bizinfo.go.kr/cmm/fms/getImageFile.do?atchFileId=FILE_000000000727967&fileSn=3",
-    "reqstBeginEndDe": "예산 소진시까지",
-    "printFileNm": "2025년 양주시 중소기업 및 소상공인 운전자금 이차보전 지원 공고문(2차 추가).hwp",
-    "reqstMthPapersCn": "※ 공고문 참조",
-    "pldirSportRealmMlsfcCodeNm": "융자",
-    "excInsttNm": "기초자치단체",
-    "refrncNm": "양주시 기업지원과 031-8082-6014 및 운전자금 취급은행 지점별 상이 공고문 참조",
-    "pblancNm": "[경기] 양주시 2025년 2차 중소기업 및 소상공인 운전자금 이차보전 지원 추가 모집 공고",
-    "hashtags": "금융,경기,2025,운전자금,양주시,이차보전,기초자치단체,경기도,대출,융자",
-    "fileNm": "별지 제2호 서식)기업운영실태서.hwp@별지 제2_1호서식)소상공인 사업장 운영 실태서.hwp@별지 제1호서식) 양주시 중소기업 운전자금 융자 신청서.hwp@별지 제1_1호서식) 양주시 소상공인 운전자금 융자신청서.hwp",
-    "creatPnttm": "2025-08-28 14:25:32",
-    "pblancId": "PBLN_000000000114243"
   }
 ]
